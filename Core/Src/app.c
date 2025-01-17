@@ -45,6 +45,7 @@ void app(){
 		HAL_Delay(10);
 
 		/*
+
 		static int angle = 0;
 		angle++;
 		angle %= 360;
